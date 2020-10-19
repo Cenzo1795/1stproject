@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	background-color: #f5fafe;
+	text-align: center;
+	
+}
+.display1{
+	display:flex;
+}
+.navbar{
+	display: flex;
+	background-color: white;
+	text-align:center; 
+}
+		 .navtop{
+			 padding: 3px;
+			 background-color: #F5FAFE;
+		 }
+.navbottom{
+	background-color: #0A223D;
+	padding: 10px;
+	text-align: center;
+}
+		 ul#menu li {
+			 display: inline;
+		 }
+		 #menu a{
+			 color: white;
+			 padding: 30px;
+			 
+		 }
+		 #menu a:hover{
+			 color: #0A223D;
+			 background-color: white;
+			 padding: 20px;
+		 }
+.hotelname{
+	background-color: #F5FAFE;
+	color: black;
+}
+.card1{
+	background-color: #0A223D;
+	color: white;
+	line-height: 0.1;
+}
+.otheract{
+	background-color: white;
+	padding: 30px;
+	color: black;
+}
+		 #menu2 a:hover{
+			 color: red;
+			 padding: 20px;
+		 }
+		 #menu2 li{
+			 display: inline;
+			 
+		 }
+		 #menu2 a{
+			 color: black;
+			 padding: 30px;
+		 }
+		 .ps1{
+			 display: flex;
+		 }
+		 .ps2{
+			 display: row-reverse;
+			 
+		 }
+		 .borderradius{
+			 border-radius: 10px;
+		 }
+		 .imgpack{
+			 color: white;
+			  width: 350px;
+			 height: 500px;
+			 top: 1676px;
+			 left: 929px;
+		 }
+		 .imgpack2{
+			 color: white;
+			  width: 700px;
+			 height: 500px;
+			 top: 1676px;
+			 left: 929px;
+		 }
+		 #rectname{
+			 width: 97px;
+			 height: 149px;
+			 top: 3315px;
+			 left: 677px;
+		 }
+		 #rectreview{
+			 width: 607px;
+			 height: 237,25px;
+			 top: 3372,8px;
+			 left: 422px;
+		 }
+		 .ractactivities{
+			 width: 255px;
+			 height: 255px;
+			 top: 4117px;
+			 left: 1024px;
+			 border-radius: 10px;
+		 }
